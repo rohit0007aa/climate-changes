@@ -1,0 +1,122 @@
+[
+  {
+    "id": "gender-pay-gap",
+    "title": "The Gender Pay Gap",
+    "theme": "Economic Justice",
+    "status": "verified",
+    "question": "Why does lifelong economic vulnerability still track gender lines across nearly every economy?",
+    "stats": [
+      { "value": "20%", "label": "Global median gender wage gap", "source": "ILO Global Wage Report (2022)" },
+      { "value": "$160T", "label": "Lifetime wealth lost globally to gender pay inequality", "source": "World Bank Women, Business and the Law (2023)" },
+      { "value": "131 Years", "label": "Projected time to close global economic gender parity at current pace", "source": "World Economic Forum (2023)" }
+    ],
+    "whatHelps": "Mandatory salary transparency, subsidized universal childcare, and equal paid parental leave.",
+    "overview": "The wage gap is not simply unequal pay for identical hours; it reflects the systematic undervaluation of care work, career penalties from motherhood, and occupational segregation into underpaid public service roles.",
+    "citations": ["ILO Global Wage Report 2022", "World Bank Women, Business and the Law 2023", "World Economic Forum Global Gender Gap Report 2023"]
+  },
+  {
+    "id": "clean-water-access",
+    "title": "Access to Clean Water",
+    "theme": "Environmental Health",
+    "status": "verified",
+    "question": "How does clean water access determine educational attainment, disease burden, and intergenerational poverty?",
+    "stats": [
+      { "value": "2.2 Billion", "label": "People lack safely managed drinking water at home", "source": "WHO/UNICEF JMP Report (2023)" },
+      { "value": "3.5 Billion", "label": "People lack safely managed sanitation facilities", "source": "WHO/UNICEF JMP Report (2023)" },
+      { "value": "200M Hours", "label": "Spent daily by women and girls collecting water", "source": "UNICEF Water and Gender Brief (2022)" }
+    ],
+    "whatHelps": "Public municipal pipe infrastructure, watershed protection, and targeted community borehole grants.",
+    "overview": "Water scarcity is fundamentally an infrastructure distribution crisis. Where municipal water networks fail, low-income families are forced to purchase price-gouged water from informal tanker cartels.",
+    "citations": ["WHO/UNICEF Joint Monitoring Programme (JMP) 2023", "UNICEF Gender and Water Report 2022"]
+  },
+  {
+    "id": "digital-divide",
+    "title": "The Digital Divide",
+    "theme": "Information Equity",
+    "status": "verified",
+    "question": "When education, banking, and public benefits migrate online, who is effectively locked out?",
+    "stats": [
+      { "value": "2.6 Billion", "label": "People remain completely offline worldwide (~33% of population)", "source": "ITU Facts and Figures (2023)" },
+      { "value": "65% vs 28%", "label": "Urban vs rural internet penetration in low-income nations", "source": "ITU Global Connectivity Report" },
+      { "value": "244 Million", "label": "Fewer women than men access mobile internet globally", "source": "GSMA Mobile Gender Gap Report (2023)" }
+    ],
+    "whatHelps": "Universal public broadband utility mandates, subsidized devices for students, and community fiber mesh networks.",
+    "overview": "Digital exclusion acts as a compound amplifier: without internet, students cannot submit assignments, workers cannot access job boards, and citizens cannot register for social safety net entitlements.",
+    "citations": ["International Telecommunication Union (ITU) Facts & Figures 2023", "GSMA Mobile Gender Gap Report 2023"]
+  },
+  {
+    "id": "mental-health-stigma",
+    "title": "Mental Health Disparities & Stigma",
+    "theme": "Public Health",
+    "status": "verified",
+    "question": "Why do mental health disorders carry severe economic penalties while receiving a fraction of healthcare budgets?",
+    "stats": [
+      { "value": "970 Million", "label": "People living with a diagnosed mental health disorder worldwide", "source": "WHO World Mental Health Report (2022)" },
+      { "value": "<2%", "label": "Share of national health budgets allocated to mental health in low/middle-income states", "source": "WHO Mental Health Atlas" },
+      { "value": "$1 Trillion", "label": "Annual lost global economic productivity from depression and anxiety", "source": "The Lancet Psychiatry & WHO" }
+    ],
+    "whatHelps": "Integrating mental health into primary care, parity laws for mental and physical health insurance, and workplace anti-stigma codes.",
+    "overview": "Mental health conditions are disproportionately diagnosed among people facing economic precarity, housing instability, and discrimination, creating a self-reinforcing poverty trap.",
+    "citations": ["WHO World Mental Health Report 2022", "Lancet Commission on Global Mental Health"]
+  },
+  {
+    "id": "child-education-access",
+    "title": "Child Education & Learning Poverty",
+    "theme": "Human Development",
+    "status": "verified",
+    "question": "What happens to long-term societal equity when children attend school but cannot read basic text?",
+    "stats": [
+      { "value": "250 Million", "label": "Children and youth currently out of school globally", "source": "UNESCO Global Education Monitoring Report (2023)" },
+      { "value": "70%", "label": "10-year-olds in low/middle-income nations unable to read a simple text ('Learning Poverty')", "source": "World Bank / UNESCO / UNICEF (2022)" },
+      { "value": "$21 Trillion", "label": "Potential lifetime earnings lost due to pandemic and systemic school disruption", "source": "World Bank Global Education Report" }
+    ],
+    "whatHelps": "Free school meal programs, foundational literacy coaching, and eliminating school attendance fees and uniform costs.",
+    "overview": "Education is the single greatest social escalator. When public schools are underfunded, children of the wealthy escape to private academies, cementing generational caste divides.",
+    "citations": ["UNESCO GEM Report 2023", "World Bank State of Global Learning Poverty 2022"]
+  },
+  {
+    "id": "food-waste-hunger",
+    "title": "Food Waste vs. Chronic Hunger",
+    "theme": "Resource Distribution",
+    "status": "verified",
+    "question": "How can one-third of all harvested food be discarded while over 700 million people go to bed hungry?",
+    "stats": [
+      { "value": "1.05 Billion", "label": "Tonnes of food wasted globally in 2022 (~19% of all food available)", "source": "UNEP Food Waste Index Report (2024)" },
+      { "value": "735 Million", "label": "People facing chronic hunger worldwide in 2023", "source": "FAO SOFI Report (2023)" },
+      { "value": "8–10%", "label": "Share of all greenhouse gas emissions caused by wasted food", "source": "IPCC Climate Change and Land" }
+    ],
+    "whatHelps": "Cold-chain infrastructure in developing regions, supermarket donation mandates, and dynamic pricing for expiring produce.",
+    "overview": "Hunger today is an allocation, logistical, and income distribution failure—not a crisis of aggregate global agricultural volume.",
+    "citations": ["UNEP Food Waste Index Report 2024", "FAO State of Food Security and Nutrition (SOFI) 2023"]
+  },
+  {
+    "id": "road-safety",
+    "title": "Road Traffic Injuries & Transit Equity",
+    "theme": "Urban Public Health",
+    "status": "verified",
+    "question": "Why are pedestrians, cyclists, and transit riders bearing the catastrophic burden of automobile-centric design?",
+    "stats": [
+      { "value": "1.19 Million", "label": "Road traffic fatalities annually across the globe", "source": "WHO Global Status Report on Road Safety (2023)" },
+      { "value": "#1 Killer", "label": "Leading cause of death worldwide for children and youth aged 5–29", "source": "WHO (2023)" },
+      { "value": "92%", "label": "Traffic fatalities occurring in low- and middle-income countries", "source": "WHO Road Safety Report" }
+    ],
+    "whatHelps": "Vision Zero engineering: physical sidewalk separation, protected bike lanes, speed-calming roundabouts, and automated speed enforcement.",
+    "overview": "Low-income pedestrians in developing cities walk alongside unlit, unpaved highways without sidewalks, bearing the mortal cost of private motor vehicle priority.",
+    "citations": ["WHO Global Status Report on Road Safety 2023", "World Bank Global Road Safety Facility"]
+  },
+  {
+    "id": "urban-housing",
+    "title": "Urban Housing & Eviction Precarity",
+    "theme": "Spatial Justice",
+    "status": "verified",
+    "question": "What occurs when shelter is financialized as an investment asset rather than protected as a fundamental human right?",
+    "stats": [
+      { "value": "1.6 Billion", "label": "People living in substandard housing or informal settlements globally", "source": "UN-Habitat World Cities Report (2022)" },
+      { "value": "30%+", "label": "Share of household income consumed by rent in over 70% of major world metros", "source": "OECD Housing Database" },
+      { "value": "100 Million", "label": "People worldwide living in absolute homelessness", "source": "UN Commission for Social Development" }
+    ],
+    "whatHelps": "Social public housing construction, tenant right-to-counsel laws, and progressive land-value capture taxation.",
+    "overview": "When housing is commodified for speculative capital yield, low-wage workers are pushed to outer peripheries with hours-long commutes and high flood or fire hazard exposure.",
+    "citations": ["UN-Habitat World Cities Report 2022", "OECD Housing Database 2023", "UN Special Rapporteur on Adequate Housing"]
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "title": "Household Footprint Estimator",
+  "disclaimer": "Illustrative Educational Estimate Only: Individual lifestyle choices are constrained by systemic infrastructure (such as public transit availability and power grid mix). This tool models broad personal choices to contextualize scale, not to shift institutional accountability onto individual households.",
+  "formulaDescription": "Total annual footprint = (Electricity kWh × Grid Factor) + (Vehicle km × Vehicle Factor) + (Flights × Flight Factor) + Diet Baseline.",
+  "parameters": {
+    "electricity": {
+      "name": "Household Electricity Consumption",
+      "unit": "kWh / month",
+      "default": 350,
+      "min": 50,
+      "max": 1500,
+      "step": 25,
+      "emissionFactorKgPerKwh": 0.385,
+      "source": "US EPA eGRID & Our World in Data (Global average grid intensity ~385 gCO2e/kWh)",
+      "assumptionNote": "Assumes standard regional grid mix; rooftop solar or 100% certified green tariffs reduce this operational component to near zero."
+    },
+    "transport": {
+      "carKmPerWeek": {
+        "name": "Personal Vehicle Travel",
+        "unit": "km / week",
+        "default": 120,
+        "min": 0,
+        "max": 800,
+        "step": 10,
+        "emissionFactorKgPerKm": 0.175,
+        "source": "UK DEFRA / European Environment Agency (Average internal combustion passenger car ~175 gCO2e/km)",
+        "assumptionNote": "Electric vehicles charged on green grids typically emit 65–75% less over their lifetime."
+      },
+      "flightsPerYear": {
+        "name": "Commercial Flights (Round Trips)",
+        "unit": "round-trip flights / year",
+        "default": 1,
+        "min": 0,
+        "max": 10,
+        "step": 1,
+        "emissionFactorKgPerFlight": 900,
+        "source": "International Civil Aviation Organization (ICAO) / Our World in Data (~900 kg CO2e per medium-haul return flight including radiative forcing)",
+        "assumptionNote": "Includes high-altitude non-CO2 radiative forcing effects (contrails and NOx)."
+      }
+    },
+    "diet": {
+      "name": "Dietary Pattern",
+      "options": [
+        {
+          "id": "meat-heavy",
+          "label": "Meat-Heavy (Daily red meat & dairy)",
+          "annualTonsCO2e": 3.3,
+          "description": "High ruminant meat intake (beef/lamb) with large land-use and enteric methane footprints."
+        },
+        {
+          "id": "average-omnivore",
+          "label": "Average Omnivore (Moderate poultry, dairy, fish)",
+          "annualTonsCO2e": 2.2,
+          "description": "Standard OECD balanced diet with periodic meat consumption."
+        },
+        {
+          "id": "low-meat",
+          "label": "Flexitarian / Low-Meat (Fish & poultry, rare red meat)",
+          "annualTonsCO2e": 1.6,
+          "description": "Significantly reduced animal agriculture reliance."
+        },
+        {
+          "id": "plant-based",
+          "label": "Plant-Based / Vegan (Legumes, grains, vegetables)",
+          "annualTonsCO2e": 1.0,
+          "description": "Minimal land, water, and agricultural emissions footprint."
+        }
+      ],
+      "source": "Poore & Nemecek (Science 2018), 'Reducing food's environmental impacts through producers and consumers'",
+      "assumptionNote": "Dietary emissions encompass agricultural farm-gate production, land use change, fertilizers, and distribution."
+    }
+  },
+  "benchmarks": {
+    "parisTargetPerCapitaTons": 2.3,
+    "worldAveragePerCapitaTons": 4.7,
+    "northAmericaAverageTons": 14.5,
+    "subSaharanAfricaAverageTons": 1.2
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "The Scale of Exposure",
+  "subtitle": "Global estimates from peer-reviewed scientific consensus",
+  "caveat": "Methodological note: The 3.3–3.6 billion vulnerability figure is assessed at the national and sub-national level based on infrastructure, governance, and geography. Vulnerable communities (such as low-income households, unhoused populations, and racialized minorities) also endure acute climate hazards inside wealthy, low-vulnerability nations.",
+  "metrics": [
+    {
+      "id": "vulnerable-population",
+      "value": 3.6,
+      "displayValue": "3.3–3.6B",
+      "prefix": "",
+      "suffix": "Billion",
+      "label": "People in Highly Vulnerable Contexts",
+      "description": "Between 3.3 and 3.6 billion people live in settings highly vulnerable to climate change—facing 15× higher mortality from floods, droughts, and storms.",
+      "sourceId": "ipcc-ar6-wg2-spm",
+      "sourceName": "IPCC AR6 WGII SPM",
+      "year": 2022,
+      "confidence": "High Confidence"
+    },
+    {
+      "id": "coastal-risk",
+      "value": 1.0,
+      "displayValue": ">1.0B",
+      "prefix": ">",
+      "suffix": "Billion",
+      "label": "At Risk in Low-Elevation Coastal Zones by 2050",
+      "description": "More than one billion people living in coastal cities and settlements will be exposed to annual coastal flood risks and storm surges by 2050.",
+      "sourceId": "ipcc-ar6-wg2-coastal",
+      "sourceName": "IPCC AR6 WGII CCP2",
+      "year": 2022,
+      "confidence": "Medium-High Confidence"
+    },
+    {
+      "id": "water-scarcity",
+      "value": 3.0,
+      "displayValue": "0.8–3.0B",
+      "prefix": "",
+      "suffix": "Billion",
+      "label": "Facing Chronic Water Scarcity at 2°C",
+      "description": "Between 800 million and 3 billion people are projected to endure chronic water scarcity if global warming reaches 2.0°C above pre-industrial levels.",
+      "sourceId": "ipcc-ar6-wg2-water",
+      "sourceName": "IPCC AR6 WGII Ch 4",
+      "year": 2022,
+      "confidence": "High Confidence"
+    },
+    {
+      "id": "undernourished",
+      "value": 183,
+      "displayValue": "Up to 183M",
+      "prefix": "Up to ",
+      "suffix": "Million",
+      "label": "Additional Undernourished in Low-Income Nations",
+      "description": "Under high warming scenarios (SSP3-7.0), crop yield reductions could leave up to 183 million additional people undernourished by 2050.",
+      "sourceId": "ipcc-ar6-wg2-food",
+      "sourceName": "IPCC AR6 WGII Ch 5",
+      "year": 2022,
+      "confidence": "Medium Confidence"
+    }
+  ]
+}

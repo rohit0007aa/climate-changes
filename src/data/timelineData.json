@@ -1,0 +1,66 @@
+[
+  {
+    "year": 1896,
+    "title": "Arrhenius Calculates the Greenhouse Effect",
+    "category": "Science",
+    "summary": "Swedish chemist Svante Arrhenius publishes 'On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground,' calculating that halving or doubling atmospheric CO2 would shift global surface temperature by 4–6°C.",
+    "significance": "First quantitative mathematical proof of human-induced climate warming.",
+    "source": "Philosophical Magazine and Journal of Science, Series 5, Vol. 41"
+  },
+  {
+    "year": 1958,
+    "title": "The Keeling Curve Begins at Mauna Loa",
+    "category": "Science",
+    "summary": "Geochemist Charles David Keeling establishes continuous high-precision atmospheric CO2 monitoring atop Hawaii's Mauna Loa volcano, documenting annual seasonal respiration and unbroken year-on-year accumulation (starting at 315 ppm).",
+    "significance": "Definitive empirical baseline tracking humanity's planetary alteration.",
+    "source": "Scripps Institution of Oceanography & NOAA"
+  },
+  {
+    "year": 1988,
+    "title": "Establishment of the IPCC & Congressional Warning",
+    "category": "Policy & Science",
+    "summary": "The World Meteorological Organization (WMO) and UNEP establish the Intergovernmental Panel on Climate Change. In June, NASA scientist James Hansen testifies before the US Senate: 'The greenhouse effect has been detected, and it is changing our climate now.'",
+    "significance": "Birth of institutional international climate assessment.",
+    "source": "WMO / UNEP Resolution & US Senate Hearing Record"
+  },
+  {
+    "year": 1992,
+    "title": "The Rio Earth Summit & UNFCCC Treaty",
+    "category": "Policy",
+    "summary": "At the UN Conference on Environment and Development in Rio de Janeiro, 154 nations sign the United Nations Framework Convention on Climate Change, enshrining the principle of 'Common But Differentiated Responsibilities' (CBDR).",
+    "significance": "The foundational treaty under which all subsequent global climate negotiations take place.",
+    "source": "United Nations Treaty Collection (UNFCCC 1992)"
+  },
+  {
+    "year": 1997,
+    "title": "The Kyoto Protocol",
+    "category": "Policy",
+    "summary": "Parties adopt the Kyoto Protocol, setting binding emissions reduction targets for 37 industrialized countries and the European Community, averaging a 5% reduction against 1990 levels between 2008 and 2012.",
+    "significance": "First legally binding international emissions reduction treaty.",
+    "source": "UNFCCC Secretariat (Kyoto Protocol)"
+  },
+  {
+    "year": 2015,
+    "title": "The Paris Agreement (COP21)",
+    "category": "Policy",
+    "summary": "196 parties adopt the Paris Agreement, committing to hold global temperature rise 'well below 2.0°C' and to 'pursue efforts to limit warming to 1.5°C' above pre-industrial levels, built upon nationally determined contributions (NDCs).",
+    "significance": "Universal climate pact replacing Kyoto with dynamic five-year ambition ratchets.",
+    "source": "UNFCCC Paris Agreement Decision 1/CP.21"
+  },
+  {
+    "year": 2022,
+    "title": "The Loss and Damage Fund Established (COP27)",
+    "category": "Justice & Finance",
+    "summary": "After three decades of advocacy by small island nations and vulnerable countries, COP27 in Sharm el-Sheikh establishes a dedicated international fund to assist developing countries facing economic and non-economic losses from climate disasters.",
+    "significance": "Historic breakthrough formalizing global responsibility for irreparable climate harms.",
+    "source": "UNFCCC Decision 2/CP.27"
+  },
+  {
+    "year": 2023,
+    "title": "First Global Stocktake & Record Highs (COP28)",
+    "category": "Policy & Science",
+    "summary": "2023 is confirmed as the warmest calendar year in 174 years of instrumental records (+1.48°C). At COP28 in Dubai, nations adopt the UAE Consensus, agreeing for the first time to 'transition away from fossil fuels in energy systems.'",
+    "significance": "First direct treaty language addressing the root fossil cause of climate warming.",
+    "source": "WMO State of the Global Climate & UNFCCC COP28 Outcome"
+  }
+]

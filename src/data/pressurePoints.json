@@ -1,0 +1,78 @@
+[
+  {
+    "id": "food",
+    "theme": "Food Security & Agriculture",
+    "headline": "Crop Yield Shocks and Nutritional Collapse",
+    "summary": "Every fraction of a degree increases the likelihood of simultaneous harvest failures across major breadbaskets, triggering food price spikes that hit the poorest hardest.",
+    "sourceId": "ipcc-ar6-wg2-food",
+    "sourceName": "IPCC AR6 WGII Ch 5 & Zhao et al. (PNAS)",
+    "statHighlight": "-7.4%",
+    "statLabel": "Maize yield loss per 1°C of warming without adaptation",
+    "chartType": "crop-yields",
+    "unit": "% Yield Change per °C Global Warming",
+    "data": [
+      { "crop": "Maize (Corn)", "lossPerDegree": -7.4, "vulnerability": "High", "stapleRegion": "Americas, Sub-Saharan Africa" },
+      { "crop": "Wheat", "lossPerDegree": -6.0, "vulnerability": "High", "stapleRegion": "Europe, South Asia, N. America" },
+      { "crop": "Rice", "lossPerDegree": -3.2, "vulnerability": "Medium", "stapleRegion": "East & Southeast Asia" },
+      { "crop": "Soybean", "lossPerDegree": -3.1, "vulnerability": "Medium", "stapleRegion": "Americas, East Asia" }
+    ],
+    "socialImplication": "Families in low-income nations spend 40% to 60% of their total income on food (versus ~10% in high-income nations). A 20% spike in grain prices forces households to skip meals or pull children from school."
+  },
+  {
+    "id": "water",
+    "theme": "Water Scarcity & Sanitation",
+    "headline": "Glacial Depletion and Deepening Aquifer Strain",
+    "summary": "Hydrological extremes compress clean water into shorter, violent deluge cycles while lengthening dry seasons, leaving billions with insecure municipal access.",
+    "sourceId": "ipcc-ar6-wg2-water",
+    "sourceName": "IPCC AR6 WGII Ch 4 & UN Water",
+    "statHighlight": "800M–3.0B",
+    "statLabel": "Projected people in chronic water stress at 2°C",
+    "chartType": "water-scarcity-tiers",
+    "unit": "Billions of People Exposed",
+    "data": [
+      { "warmingLevel": "1.0°C (Baseline 2020)", "scarcityLow": 0.5, "scarcityHigh": 1.2, "midpoint": 0.85, "label": "Today" },
+      { "warmingLevel": "1.5°C (Paris Ambition)", "scarcityLow": 0.7, "scarcityHigh": 2.1, "midpoint": 1.4, "label": "Paris 1.5°C" },
+      { "warmingLevel": "2.0°C (Current Trajectory)", "scarcityLow": 0.8, "scarcityHigh": 3.0, "midpoint": 1.9, "label": "Dangerous 2.0°C" },
+      { "warmingLevel": "3.0°C (High Emissions)", "scarcityLow": 1.4, "scarcityHigh": 3.8, "midpoint": 2.6, "label": "Severe 3.0°C" }
+    ],
+    "socialImplication": "When piped water fails, water-fetching labor falls overwhelmingly on women and girls—costing up to 200 million collective hours every day globally and increasing vulnerability to gender-based violence."
+  },
+  {
+    "id": "health",
+    "theme": "Human Health & Labor Strain",
+    "headline": "Lethal Wet-Bulb Temperatures & Lost Work Hours",
+    "summary": "The physiological ceiling of human labor is already being tested in tropical and subtropical regions. Beyond 35°C wet-bulb, the body cannot cool itself via evaporation.",
+    "sourceId": "ilo-heat-stress",
+    "sourceName": "ILO (2019) & WHO Climate and Health Report",
+    "statHighlight": "80 Million",
+    "statLabel": "Full-time equivalent jobs lost annually to heat stress by 2030",
+    "chartType": "labor-loss-sectors",
+    "unit": "Percentage of Working Hours Lost by 2030",
+    "data": [
+      { "sector": "Agriculture", "hoursLostPct": 5.3, "jobEquivMillions": 48.0, "riskTier": "Extreme" },
+      { "sector": "Construction", "hoursLostPct": 3.8, "jobEquivMillions": 15.2, "riskTier": "High" },
+      { "sector": "Informal / Outdoor Services", "hoursLostPct": 2.1, "jobEquivMillions": 9.6, "riskTier": "Medium-High" },
+      { "sector": "Manufacturing & Logistics", "hoursLostPct": 1.2, "jobEquivMillions": 7.2, "riskTier": "Moderate" }
+    ],
+    "socialImplication": "Informal and outdoor workers face an agonizing trade-off between heatstroke or starvation. Many endure chronic kidney disease of non-traditional origin (CKDnt) from repetitive heat-stress dehydration."
+  },
+  {
+    "id": "displacement",
+    "theme": "Housing & Climate Displacement",
+    "headline": "Inhabitable Coastlines & Weather-Driven Migration",
+    "summary": "Extreme cyclones, storm surges, and riverine flooding tear through informal urban settlements and rural river basins, generating millions of internal refugees annually.",
+    "sourceId": "idmc-grid-2023",
+    "sourceName": "IDMC Global Report on Internal Displacement (GRID 2023)",
+    "statHighlight": "31.8 Million",
+    "statLabel": "Weather-related internal disaster displacements in 2022",
+    "chartType": "displacement-events",
+    "unit": "Displacements Triggered (Millions, 2018–2022)",
+    "data": [
+      { "hazard": "Floods", "displacementsMillions": 19.2, "percentage": 60, "trend": "Rapidly Increasing" },
+      { "hazard": "Storms & Cyclones", "displacementsMillions": 9.9, "percentage": 31, "trend": "Volatile & Severe" },
+      { "hazard": "Droughts & Aridity", "displacementsMillions": 2.2, "percentage": 7, "trend": "Chronic & Protracted" },
+      { "hazard": "Wildfires & Heat", "displacementsMillions": 0.5, "percentage": 2, "trend": "Escalating in Med/NA" }
+    ],
+    "socialImplication": "Most climate migrants move within their national borders to crowded peri-urban informal settlements with precarious tenure, where they remain vulnerable to the next severe storm."
+  }
+]

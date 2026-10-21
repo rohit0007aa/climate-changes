@@ -1,0 +1,25 @@
+{
+  "title": "The Arithmetic of Inequity",
+  "subtitle": "Comparing cumulative historical emissions against geographic vulnerability",
+  "topEmittersShare": [
+    { "group": "Top 1% Global Wealth", "emissionsSharePct": 16, "perCapitaTons": 110.0, "description": "Responsible for as much carbon emissions as the bottom 66% combined" },
+    { "group": "Top 10% Global Wealth", "emissionsSharePct": 50, "perCapitaTons": 31.0, "description": "Generates half of all consumption-based greenhouse gases worldwide" },
+    { "group": "Middle 40%", "emissionsSharePct": 40, "perCapitaTons": 7.0, "description": "Global middle-income workforce and households" },
+    { "group": "Bottom 50%", "emissionsSharePct": 10, "perCapitaTons": 1.6, "description": "Roughly 4 billion people living with minimum consumption and zero margin" }
+  ],
+  "historicalEmissions": [
+    { "region": "United States", "shareOfHistoricCO2": 24.6, "populationShare": 4.2, "vulnerabilityTier": "Low" },
+    { "region": "European Union (EU-27)", "shareOfHistoricCO2": 17.1, "populationShare": 5.6, "vulnerabilityTier": "Low" },
+    { "region": "China", "shareOfHistoricCO2": 14.8, "populationShare": 17.5, "vulnerabilityTier": "Medium" },
+    { "region": "Sub-Saharan Africa", "shareOfHistoricCO2": 1.8, "populationShare": 14.5, "vulnerabilityTier": "Extreme" },
+    { "region": "Small Island Developing States (SIDS)", "shareOfHistoricCO2": 0.5, "populationShare": 0.8, "vulnerabilityTier": "Existential" }
+  ],
+  "financeGap": {
+    "promisedBillionAnnual": 100,
+    "actualGrantsDeliveredEst": 28,
+    "neededBy2030BillionAnnual": 387,
+    "quote": "Developing countries require an estimated $387 billion per year this decade for adaptation alone, yet international public adaptation finance flows are slowing.",
+    "sourceId": "unfccc-cop27-loss-damage",
+    "sourceName": "UNEP Adaptation Gap Report 2023 & OECD Climate Finance Assessments"
+  }
+}

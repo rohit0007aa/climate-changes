@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cutting-emissions",
+    "leverNumber": "01",
+    "name": "Rapid Mitigation at Source",
+    "focus": "Decarbonizing energy, grids, transport, and industrial heating",
+    "impact": "Halving global emissions by 2030 limits extreme warming above 1.5°C, preventing non-linear tipping cascades.",
+    "keyEfficacyStat": "-43% CO2 by 2030 needed",
+    "examples": [
+      "Replacing thermal coal and gas with grid-scale solar, wind, and storage",
+      "Electrification of public transit and commercial fleets",
+      "Mandating zero-carbon building standards for all new construction"
+    ],
+    "equityAngle": "Decarbonization must eliminate local toxic air pollutants that disproportionately poison lower-income neighborhoods adjacent to fossil corridors.",
+    "source": "IPCC AR6 WGIII (2022)"
+  },
+  {
+    "id": "funding-adaptation",
+    "leverNumber": "02",
+    "name": "Targeted Adaptation Infrastructure",
+    "focus": "Early warning systems, heat-resilient housing, and flood defenses",
+    "impact": "A 24-hour advance warning of an incoming storm or heatwave reduces the resulting damage by up to 30%, saving thousands of lives.",
+    "keyEfficacyStat": "1:10 benefit-cost ratio on early warnings",
+    "examples": [
+      "Universal multi-hazard early warning systems (UN Early Warnings for All)",
+      "Passive cooling, shaded pedestrian corridors, and cool roofs in dense settlements",
+      "Mangrove belt restoration and wetland buffers against coastal storm surges"
+    ],
+    "equityAngle": "Adaptation funding must prioritize informal settlements and low-income districts that lack drainage, tree canopy, or municipal storm barriers.",
+    "source": "Global Commission on Adaptation / WMO"
+  },
+  {
+    "id": "climate-finance",
+    "leverNumber": "03",
+    "name": "Debt-Free Climate Finance & Loss Recovery",
+    "focus": "Concessional grants and dedicated Loss & Damage disbursements",
+    "impact": "Allows climate-vulnerable nations to rebuild without compounding sovereign debt crises that crowd out public healthcare and schooling.",
+    "keyEfficacyStat": "Grants vs loans parity",
+    "examples": [
+      "Operationalizing the UN Loss & Damage Fund with automatic trigger mechanisms",
+      "Debt pause clauses activated automatically after major natural disasters",
+      "Reforming multilateral development banks (World Bank / IMF) to de-risk green loans"
+    ],
+    "equityAngle": "Over 70% of public climate finance to developing countries currently arrives as loans, trapping vulnerable nations in cyclical indebtedness.",
+    "source": "OECD (2023) / Bridgetown Initiative"
+  },
+  {
+    "id": "community-planning",
+    "leverNumber": "04",
+    "name": "Community Planning & Indigenous Land Rights",
+    "focus": "Decentralized governance, participatory budgeting, and customary tenure",
+    "impact": "Legally recognizing Indigenous and community land rights halves deforestation rates and yields lower-cost, durable adaptation outcomes.",
+    "keyEfficacyStat": "2× lower deforestation on titled Indigenous lands",
+    "examples": [
+      "Formal legal titling of ancestral territories across tropical forest basins",
+      "Participatory neighborhood heat and flood mapping led by local residents",
+      "Decentralized micro-grids managed and owned by local community cooperatives"
+    ],
+    "equityAngle": "Local residents possess generational environmental knowledge. Top-down solutions often fail when local communities are treated merely as recipients rather than designers.",
+    "source": "IPCC AR6 WGII SPM & WRI"
+  },
+  {
+    "id": "fair-transitions",
+    "leverNumber": "05",
+    "name": "Just Transition for Workers & Communities",
+    "focus": "Social safety nets, wage guarantees, and re-skilling fossil workforces",
+    "impact": "Ensures the shift away from fossil extraction does not leave mining towns and industrial workers stranded in poverty.",
+    "keyEfficacyStat": "4× more jobs created in clean energy than lost in fossil fuels",
+    "examples": [
+      "Guaranteed pensions and bridge wages for older fossil workers approaching retirement",
+      "Union-led apprenticeships in geothermal, solar grid infrastructure, and insulation",
+      "Regional economic revitalization funds for coal-dependent mining municipalities"
+    ],
+    "equityAngle": "A green transition that sacrifices working families triggers political backlash, delaying decarbonization. Climate action and worker dignity are inseparable.",
+    "source": "International Labour Organization (ILO) / IRENA"
+  }
+]

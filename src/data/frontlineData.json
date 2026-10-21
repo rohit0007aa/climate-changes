@@ -1,0 +1,72 @@
+[
+  {
+    "id": "low-income-households",
+    "name": "Low-Income Households",
+    "subtitle": "High physical exposure, minimal financial buffer to rebuild",
+    "mechanism": "Lower-income families frequently inhabit affordable land in low-lying floodplains, urban heat islands, or poorly insulated buildings. A single storm or heatwave can wipe out lifetime savings, forcing debt or displacement.",
+    "fact": "In low-income countries, mortality from weather extremes between 2010 and 2020 was 15 times higher than in low-vulnerability regions.",
+    "sourceId": "ipcc-ar6-wg2-spm",
+    "sourceName": "IPCC AR6 WGII SPM, 2022",
+    "quote": "Vulnerability is exacerbated by inequity, marginalisation and lack of access to basic resources.",
+    "keyMetrics": [
+      { "label": "Mortality disparity", "value": "15× higher" },
+      { "label": "Disaster recovery time", "value": "3–5× slower" }
+    ]
+  },
+  {
+    "id": "small-farmers-fishers",
+    "name": "Small Farmers & Fishing Communities",
+    "subtitle": "Direct ecological reliance on rain cycles and marine thermal limits",
+    "mechanism": "More than 500 million smallholder farms feed an estimated one-third of the global population. When monsoons fail, salinity intrudes into coastal deltas, or ocean heatwaves bleach coral nurseries, their livelihood evaporates instantly.",
+    "fact": "Climate shocks have reduced agricultural productivity growth globally by ~21% since 1961, disproportionately affecting Sub-Saharan Africa and South Asia.",
+    "sourceId": "ipcc-ar6-wg2-food",
+    "sourceName": "IPCC AR6 WGII Ch 5 / Nature Climate Change",
+    "quote": "Small-scale food producers in tropical regions face compound risks from simultaneous drought and heat extremes.",
+    "keyMetrics": [
+      { "label": "Global food share", "value": "~32% of total" },
+      { "label": "Past 60y growth loss", "value": "-21% drag" }
+    ]
+  },
+  {
+    "id": "outdoor-informal-workers",
+    "name": "Outdoor & Informal Workers",
+    "subtitle": "Compelled to labor under lethal wet-bulb temperatures",
+    "mechanism": "Agricultural day laborers, delivery couriers, rickshaw operators, and construction workers cannot 'work from home' or turn on air conditioning. When wet-bulb globe temperatures exceed physiological safety thresholds (31–32°C), organ failure and chronic kidney disease skyrocket.",
+    "fact": "By 2030, heat stress is projected to eliminate 2.2% of all working hours worldwide—equivalent to 80 million full-time jobs, with 60% of lost hours in agriculture.",
+    "sourceId": "ilo-heat-stress",
+    "sourceName": "ILO Report: Working on a Warmer Planet, 2019",
+    "quote": "Heat stress disproportionately impacts workers in developing nations with inadequate labor protections and informal contracts.",
+    "keyMetrics": [
+      { "label": "Global hours lost by 2030", "value": "2.2% (~80M jobs)" },
+      { "label": "Agriculture share", "value": "60% of loss" }
+    ]
+  },
+  {
+    "id": "children-older-people",
+    "name": "Children & Older People",
+    "subtitle": "Physiological vulnerability to thermal extremes and infectious vectors",
+    "mechanism": "Children's organ systems are still developing and they breathe more air per kilogram of body weight, heightening vulnerability to wildfire smoke and waterborne diarrheal pathogens. Older adults have diminished thermoregulatory capacity, leading to fatal cardiovascular strain during nocturnal heatwaves.",
+    "fact": "Over 88% of the existing global disease burden attributable to climate change falls on children under age five, largely via undernutrition and infectious disease.",
+    "sourceId": "who-climate-health",
+    "sourceName": "WHO / Lancet Countdown on Health and Climate Change",
+    "quote": "A child born today will experience a world more than four degrees warmer than the pre-industrial average unless urgent action is taken.",
+    "keyMetrics": [
+      { "label": "Child disease burden share", "value": "88% under age 5" },
+      { "label": "Projected excess deaths/yr", "value": "250,000 (2030–2050)" }
+    ]
+  },
+  {
+    "id": "indigenous-marginalized",
+    "name": "Indigenous & Marginalized Groups",
+    "subtitle": "Frontline stewards of biodiversity burdened by historical disenfranchisement",
+    "mechanism": "Indigenous peoples manage or hold tenure over roughly 80% of the world's remaining terrestrial biodiversity. Rapid permafrost thaw in the Arctic, deforestation in the Amazon, and desertification in the Sahel threaten their territorial sovereignty, traditional ecological medicine, and cultural heritage.",
+    "fact": "Indigenous lands experience significantly lower deforestation rates globally when rights are legally recognized, yet receive less than 1% of international climate finance.",
+    "sourceId": "ipcc-ar6-wg2-spm",
+    "sourceName": "IPCC AR6 WGII SPM & Rainforest Foundation, 2022",
+    "quote": "Centering Indigenous knowledge and local governance is essential for equitable, effective climate adaptation.",
+    "keyMetrics": [
+      { "label": "Biodiversity stewarded", "value": "80% of planet" },
+      { "label": "Climate finance received", "value": "<1% directly" }
+    ]
+  }
+]

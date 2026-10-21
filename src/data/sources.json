@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ipcc-ar6-wg2-spm",
+    "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability — Summary for Policymakers",
+    "publisher": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2022,
+    "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/spm/",
+    "keyFindings": "Approximately 3.3 to 3.6 billion people live in contexts that are highly vulnerable to climate change (high confidence). Between 2010 and 2020, human mortality from floods, droughts and storms was 15 times higher in highly vulnerable regions, compared to regions with very low vulnerability.",
+    "section": "The Scale & Frontline"
+  },
+  {
+    "id": "ipcc-ar6-wg2-coastal",
+    "title": "IPCC AR6 WGII Chapter 13: Europe & Global Cross-Chapter Paper 2: Coastal Cities and Settlements",
+    "publisher": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2022,
+    "url": "https://www.ipcc.ch/report/ar6/wg2/cross-chapter-paper/ccp2/",
+    "keyFindings": "Globally, population exposure in the Low Elevation Coastal Zone (LECZ) is projected to exceed 1 billion people by 2050 under all SSPs, with the largest increases in developing nations.",
+    "section": "The Scale & Housing"
+  },
+  {
+    "id": "ipcc-ar6-wg2-water",
+    "title": "IPCC AR6 WGII Chapter 4: Water",
+    "publisher": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2022,
+    "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-4/",
+    "keyFindings": "At 2°C of global warming, between 800 million and 3 billion people are projected to experience chronic water scarcity due to droughts and hydrological cycle disruption.",
+    "section": "The Scale & Water Pressure"
+  },
+  {
+    "id": "ipcc-ar6-wg2-food",
+    "title": "IPCC AR6 WGII Chapter 5: Food, Fibre, and Other Ecosystem Products",
+    "publisher": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2022,
+    "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-5/",
+    "keyFindings": "Climate change has already slowed agricultural productivity growth globally over the past 50 years. Under high warming scenarios (SSP3-7.0 / SSP5-8.5), up to 183 million additional people in low-income countries could face undernourishment by 2050.",
+    "section": "The Scale & Food Pressure"
+  },
+  {
+    "id": "oxfam-carbon-inequality",
+    "title": "Climate Equality: A Planet for the 99%",
+    "publisher": "Oxfam International & Stockholm Environment Institute (SEI)",
+    "year": 2023,
+    "url": "https://www.oxfam.org/en/research/climate-equality-planet-99",
+    "keyFindings": "The richest 1% of the global population was responsible for 16% of global carbon emissions in 2019—the same amount as the bottom 66% (5 billion people). The top 10% accounted for half (50%) of all emissions.",
+    "section": "Climate Justice"
+  },
+  {
+    "id": "chancel-world-inequality",
+    "title": "Global Carbon Inequality 1990–2019",
+    "publisher": "World Inequality Lab (Lucas Chancel)",
+    "year": 2022,
+    "url": "https://wid.world/document/global-carbon-inequality-1990-2019-wid-world-working-paper-2021-22/",
+    "keyFindings": "Emissions within countries are now more unequal than emissions between countries. The poorest half of the world produces on average 1.6 tonnes of CO2 per capita per year, while the top 10% produces 31 tonnes.",
+    "section": "Climate Justice"
+  },
+  {
+    "id": "ilo-heat-stress",
+    "title": "Working on a Warmer Planet: The Effect of Heat Stress on Productivity and Decent Work",
+    "publisher": "International Labour Organization (ILO)",
+    "year": 2019,
+    "url": "https://www.ilo.org/global/publications/books/WCMS_711919/lang--en/index.htm",
+    "keyFindings": "By 2030, the equivalent of more than 2% of total working hours worldwide is projected to be lost every year, either because it is too hot to work or because workers have to work at a slower pace—equivalent to 80 million full-time jobs and $2.4 trillion in economic losses, hitting agricultural and construction workers hardest.",
+    "section": "Pressure Points: Health & Work"
+  },
+  {
+    "id": "idmc-grid-2023",
+    "title": "Global Report on Internal Displacement (GRID 2023)",
+    "publisher": "Internal Displacement Monitoring Centre (IDMC)",
+    "year": 2023,
+    "url": "https://www.internal-displacement.org/global-report/grid2023/",
+    "keyFindings": "Disasters triggered 32.6 million internal displacements across 148 countries and territories in 2022. Weather-related events accounted for 98% (31.8 million) of these displacements, led by floods and severe storms.",
+    "section": "Pressure Points: Housing & Displacement"
+  },
+  {
+    "id": "who-climate-health",
+    "title": "Climate Change and Health: Key Facts",
+    "publisher": "World Health Organization (WHO)",
+    "year": 2023,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "keyFindings": "Between 2030 and 2050, climate change is expected to cause approximately 250,000 additional deaths per year from malnutrition, malaria, diarrhoea and heat stress alone.",
+    "section": "Pressure Points: Health"
+  },
+  {
+    "id": "world-bank-groundswell",
+    "title": "Groundswell Part 2: Acting on Internal Climate Migration",
+    "publisher": "The World Bank",
+    "year": 2021,
+    "url": "https://www.worldbank.org/en/news/press-release/2021/09/13/climate-change-could-force-216-million-people-to-migrate-within-their-own-countries-by-2050",
+    "keyFindings": "Climate change could force 216 million people across six world regions to move within their countries by 2050 under pessimistic scenarios, but concerted global action could reduce that number by up to 80%.",
+    "section": "Housing & Displacement"
+  },
+  {
+    "id": "hadcrut5-stripes",
+    "title": "HadCRUT5 Global Mean Surface Temperature Anomaly Dataset (1850–2023)",
+    "publisher": "UK Met Office Hadley Centre & Climatic Research Unit (University of East Anglia)",
+    "year": 2024,
+    "url": "https://www.metoffice.gov.uk/hadobs/hadcrut5/",
+    "keyFindings": "Global average surface temperature has risen by approximately 1.25°C above the 1850–1900 baseline, with the last decade (2014–2023) being the warmest on instrument record.",
+    "section": "Hero & Warming Stripes"
+  },
+  {
+    "id": "unfccc-cop27-loss-damage",
+    "title": "Decision 2/CP.27: Funding arrangements for responding to loss and damage",
+    "publisher": "United Nations Framework Convention on Climate Change (UNFCCC)",
+    "year": 2022,
+    "url": "https://unfccc.int/documents/624440",
+    "keyFindings": "Establishment of new funding arrangements, including a dedicated Loss and Damage Fund for assisting developing countries that are particularly vulnerable to the adverse effects of climate change.",
+    "section": "Climate Justice & Policy"
+  }
+]
